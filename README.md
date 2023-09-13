@@ -1,4 +1,4 @@
-##  Daily Interview Pro
+## Daily coding interview
 This is a training repository for software engineer problem sets that asked by Google, Apple..etc.
 
 
